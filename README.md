@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile (2).jpeg" width="180" height="180" style="border-radius:50%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Manchala Venkata Dharani</h1>
 
 <h3 align="center">
