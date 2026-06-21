@@ -186,7 +186,7 @@ Python | Flask | MongoDB | HTML | CSS | JavaScript
 
 🏅 Qualified GATE 2026 - Computer Science Engineering
 
-💻 Solved 120+ Data Structures & Algorithm Problems
+💻 Solved 150+ Data Structures & Algorithm Problems
 
 🚀 Built multiple AI/ML based applications
 
