@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="profile (2).jpeg" width="180" height="180" style="border-radius:50%">
+  <img 
+    src="profile (2).jpeg" 
+    width="180" 
+    height="180"
+    style="border-radius: 50%; object-fit: cover;"
+  />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Manchala Venkata Dharani</h1>
 
